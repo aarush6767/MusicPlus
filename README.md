@@ -10,7 +10,7 @@ Set a timer to automatically pause music. Works even if the tab is in the backgr
 2. Open `chrome://extensions` or `brave://extensions` in your respective browser.
 3. Enable **Developer mode** (top right toggle).
 4. Click **Load unpacked** and select the `musicplus` folder.
-5. Head to [music.apple.com](https://music.apple.com) and start jamming.
+5. Head to [music.apple.com](https://music.apple.com) and start jam.
 
 ## what's next?
 1. A Mini player
